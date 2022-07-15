@@ -60,11 +60,11 @@ Everything below is a prioritized outline and you should work from the top to th
 Blockchain technology is a multi-disciplinary field built atop cryptography, economics, and computer science. The background section includes some requisite fundamentals in these fields that will ensure you have solid footing before diving deeper into the blockchain specifics since many of the features that exist today are results of years and years of previous research.
 
 ## Data Structures
-- [ ] [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
-- [ ] [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
-- [ ] [Hash Maps](https://en.wikipedia.org/wiki/Hash_table)
-- [ ] [Graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29)
-- [ ] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+- [x] [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
+- [x] [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
+- [x] [Hash Maps](https://en.wikipedia.org/wiki/Hash_table)
+- [x] [Graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29)
+- [x] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 
 ## Cryptography
 - [ ] [Public/Private Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
@@ -88,8 +88,8 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)
   - [ ] [PBFT](https://blog.acolyer.org/2015/05/18/practical-byzantine-fault-tolerance/)
 - [ ] [Distributed Databases](https://en.wikipedia.org/wiki/Distributed_database)
-  - [ ] [Sharding](https://en.wikipedia.org/wiki/Shard_%28database_architecture%29)
-    - [ ] [Consistent Hashing](https://en.wikipedia.org/wiki/Consistent_hashing)
+  - [x] [Sharding](https://en.wikipedia.org/wiki/Shard_%28database_architecture%29)
+    - [x] [Consistent Hashing](https://en.wikipedia.org/wiki/Consistent_hashing)
   - [ ] [Leader-Follower Replication](https://en.wikipedia.org/wiki/Replication_%28computing%29)
   - [ ] [Quorum-based commits](https://en.wikipedia.org/wiki/Quorum_%28distributed_computing%29)
   - [ ] [Distributed Hash Tables](https://en.wikipedia.org/wiki/Distributed_hash_table)
